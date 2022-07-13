@@ -41,3 +41,14 @@ then
 		#body of if
 	fi
 fi
+
+#Syntex for switch
+
+case pattern in 
+	pattern1)
+			;;
+	pattern2)
+			;;
+	*)
+		;;
+esac
