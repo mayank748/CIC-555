@@ -1,9 +1,9 @@
 #! /bin/bash -x
 
-for((i=0;i<3;i++))
+for((i=1;i<=100 ;i++))
 do
-	if [ $i -le 1 ]
+	if [ $(($i%2)) -eq 0 ]
 	then
-		echo "listioning music"
+		echo $i
 	fi
 done
