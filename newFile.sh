@@ -52,3 +52,10 @@ case pattern in
 	*)
 		;;
 esac
+
+# loops
+
+for ((i=0;i<3;i++ ))
+do
+	# body of the loop
+done
