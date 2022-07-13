@@ -59,3 +59,11 @@ for ((i=0;i<3;i++ ))
 do
 	# body of the loop
 done
+
+#while loops
+
+while [ #condition]
+do
+
+	# body of the loop
+done
