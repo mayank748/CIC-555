@@ -88,3 +88,7 @@ function nonParametrized_function(){
 
 nonParametrized_function
 
+#Arrays
+
+declare -a myArray
+
