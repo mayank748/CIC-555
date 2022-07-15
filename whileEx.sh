@@ -1,6 +1,6 @@
 #! /bin/bash -x
 
-count=1;
+count=0;
 
 while [ $count -lt 100 ]
 do

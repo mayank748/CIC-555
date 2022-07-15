@@ -67,3 +67,24 @@ do
 
 	# body of the loop
 done
+
+
+#functions 
+#Parametrized function
+
+function name_of_the_function(){
+	local firstValue=$1
+	local secondValue=$2
+
+	#body of the function
+}
+
+name_of_the_function $first_value $second_value 
+
+
+function nonParametrized_function(){
+	#body of the function
+}
+
+nonParametrized_function
+
