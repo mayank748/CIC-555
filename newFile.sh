@@ -92,3 +92,6 @@ nonParametrized_function
 
 declare -a myArray
 
+
+#
+declare -A myDictionary
